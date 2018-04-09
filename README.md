@@ -12,8 +12,8 @@ https://hub.docker.com/r/cbleker/neo4j-KEGG
 
 ### Docker pull command 
 
-`docker pull cbleker/neo4j-KEGG
+    docker pull cbleker/neo4j-KEGG
 
 ### To run container:
 
-`docker run -it  -p 7474:7474 -p 1337:1337 -p 7687:7687 --volume=/data cbleker/neo4j-KEGG
+    docker run -it  -p 7474:7474 -p 1337:1337 -p 7687:7687 --volume=/data cbleker/neo4j-KEGG
