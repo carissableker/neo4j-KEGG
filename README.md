@@ -1,4 +1,4 @@
-# neo4j-biocyc-ecoli
+# neo4j-kegg
 
 ## Description
 
