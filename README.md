@@ -8,11 +8,11 @@ Docker container based on [neo4j:3.3.2](https://github.com/neo4j/docker-neo4j-pu
 
 ### Docker Hub address: 
 
-https://hub.docker.com/r/cbleker/neo4j-KEGG
+https://hub.docker.com/r/cbleker/neo4j-kegg
 
 ### Docker pull command 
 
-    docker pull cbleker/neo4j-KEGG
+    docker pull cbleker/neo4j-kegg
 
 ### To run container:
 
