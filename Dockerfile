@@ -21,7 +21,7 @@ ENV PATH /var/lib/neo4j/bin:$PATH
 
 WORKDIR /var/lib/neo4j
 
-RUN curl --fail --silent --show-error --location -o /tmp/graph.dump  https://www.dropbox.com/s/nhqcsmi6g53z3s0/KEGG.dump?dl=0 && \
+RUN curl --fail --silent --show-error --location -o /tmp/graph.dump  https://www.dropbox.com/s/rkslcucq6ovbojx/kegg.dump?dl=0 && \
     bin/neo4j-admin load --from=/tmp/graph.dump --database=graph.db --force && \
     rm /tmp/graph.dump
 
