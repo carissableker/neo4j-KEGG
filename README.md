@@ -2,7 +2,10 @@
 
 ## Description
 
-Docker container based on [neo4j:3.3.2](https://github.com/neo4j/docker-neo4j-publish/tree/d2ac73d32328f299d14aad08bb82e7daefe1e575/3.3.2/community) containing KEGG reactions and compounds. 
+Docker container based on [neo4j:3.5.12](https://github.com/neo4j/docker-neo4j-publish/tree/master/3.5.12/community) containing KEGG reactions and compounds. 
+
+Last updated 6.11.2019. 
+
 
 ## Docker
 
