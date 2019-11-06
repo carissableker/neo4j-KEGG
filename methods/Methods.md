@@ -1,7 +1,5 @@
 # Method to create neo4j-KEGG
 
-Start from 
-
 1. Make data/KEGG_download and data/import folders
 
 2. Download compound, reaction and glycan objects:
@@ -62,7 +60,7 @@ Start from
     ```
     cp ~/neo4j/data/kegg/kegg61119.dump .
     ```
-
+11. Upload new version to dropbox and update link in Dockerfile. 
 
 
 
