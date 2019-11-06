@@ -7,6 +7,11 @@ Docker container based on [neo4j:3.5.12](https://github.com/neo4j/docker-neo4j-p
 Last updated 6.11.2019. 
 
 
+Data is not kept in this repo, but on dropbox. To see how the dropbox file is created, see the methods folder. 
+This image can be used in conjuction with a jupyter notebook image by using `docker-compose. 
+
+
+
 ## Docker
 
 ### Docker Hub address: 
